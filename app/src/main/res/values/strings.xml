@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ZMDb</string>
+    <string-array name="movie_categories">
+        <item>Popular Movies</item>
+        <item>Top Rated Movies</item>
+        <item>My Favourite</item>
+    </string-array>
+
+    <!--TMDB API-->
+    <string name="APIKeyQuery">api_key</string>
+    <string name="TMDBAPIKey">981e4de53fa7c562b91c898b4387ff4c</string>
+    <string name="movie">movie</string>
+    <string name="TMDBReviewPath">reviews</string>
+    <string name="videos">videos</string>
+
+    <!--MovieDetails-->
+    <string name="genres">genres</string>
+    <string name="movieId">id</string>
+    <string name="overview">overview</string>
+    <string name="posterPath">poster_path</string>
+    <string name="releaseDate">release_date</string>
+    <string name="movieTitle">title</string>
+    <string name="voteAverage">vote_average</string>
+    <string name="voteVount">vote_count</string>
+
+    <!--Movie Categories-->
+    <string name="popularMovie">popular</string>
+    <string name="topRatedMovie">top_rated</string>
+
+    <!--Image-->
+    <string name="moviePosterPath">poster_path</string>
+    <string name="imageRes500">w500</string>
+    <string name="youtubeFirstThumbnailFormatJPG">0.jpg</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="overview_label">Overview</string>
+
+    <!--Image contentDescription-->
+    <string name="imageViewBackDrop">containt backdrop of movie</string>
+    <string name="imageViewPoster">containt poster of movie</string>
+    <string name="imageViewRating">rating icon with star</string>
+    <string name="imageViewFavourite">icon favourite with heart</string>
+    <string name="imageViewPlayButton">icon play with red play</string>
+
+    <string name="reviews">Review</string>
+    <string name="more_reviews">More Reviews</string>
+
+</resources>
