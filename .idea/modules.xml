@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZMDb.iml" filepath="$PROJECT_DIR$/ZMDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZenMDB.iml" filepath="$PROJECT_DIR$/ZenMDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ZenMDB-app.iml" filepath="$PROJECT_DIR$/app/ZenMDB-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
